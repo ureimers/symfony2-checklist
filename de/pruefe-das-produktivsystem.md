@@ -1,6 +1,6 @@
 Prüfe das Produktivsystem
 grundlagen
-Bevor Du Deine Anwendung auf den Produktiv-Server ausspielst, solltest Du prüfen, ob dieser in der Lage ist, sie korrekt auszuführen.
+Bevor Du Deine Anwendung auf Deinen Produktiv-Server ausspielst, solltest Du prüfen, ob dieser auch in der Lage ist, sie korrekt auszuführen.
 
 Um den Server zu testen hast Du grundsätzlich drei Möglichkeiten:
 
